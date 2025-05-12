@@ -6,7 +6,12 @@ the results are not that satisfactory i am working on realESRGAN to upscale the 
 before running the requiremnts.txt check below things
 i am using Ubuntu 22.04.5 as operating system all the work done is in the virtual envirnment
 to run the envirnment run the bellow cammands in the terminal
-the jupyter noteb
+the jupyter notebook is also running in the virtual envirnment so activate the envirment for both the jupyter notebook and to run the installation files
+the commands are
+
+python3 -m venv venv
+ source venv/bin/activate
+
 
 incase you run jupyter lab
 if you gets some error run following commands in the terminal then restart the jupyter notebook
